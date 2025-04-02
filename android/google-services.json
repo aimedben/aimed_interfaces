@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "20823173302",
+    "project_id": "savelife-94270",
+    "storage_bucket": "savelife-94270.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:20823173302:android:8e92d0e1aacab6f29d1e17",
+        "android_client_info": {
+          "package_name": "save.life"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "20823173302-9ighifgj20g6t1j3rsft122p6dpa5o9u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBj5wB5CshJDMxgQtCDb1kN2z0UlXW02e0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "20823173302-9ighifgj20g6t1j3rsft122p6dpa5o9u.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "20823173302-25vrpm3q71273bsm7gffurjio01cth0s.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "savelife-94270savelife-94270",
+                "app_store_id": "2082317330220823173"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

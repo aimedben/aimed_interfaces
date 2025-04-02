@@ -1,0 +1,30 @@
+[
+    {
+      "id": "1",
+      "title": "Nouvelle récompense disponible !",
+      "message": "Vous avez débloqué un badge pour votre engagement.",
+      "timestamp": "2024-03-30T10:00:00Z",
+      "isRead": false,
+      "icon": "badge",
+      "deepLink": "/rewards/badge-123"
+    },
+    {
+      "id": "2",
+      "title": "Rappel : Événement demain",
+      "message": "Ne manquez pas notre atelier à 14h.",
+      "timestamp": "2024-03-29T09:30:00Z",
+      "isRead": true,
+      "icon": "calendar",
+      "deepLink": "/events/workshop-456"
+    },
+    {
+      "id": "3",
+      "title": "Mise à jour de l'application",
+      "message": "Version 2.1 disponible avec de nouvelles fonctionnalités.",
+      "timestamp": "2024-03-28T16:15:00Z",
+      "isRead": false,
+      "icon": "update",
+      "deepLink": "/settings"
+    }
+  ]
+  
