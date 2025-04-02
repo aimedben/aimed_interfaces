@@ -1,6 +1,6 @@
 import React, { useEffect, useRef } from 'react';
 import { View, Image, Animated, StyleSheet, Text } from 'react-native';
-import { styles } from '../points';
+import { styles } from '../styles';
 
 const ProgressBar = ({ progressValue, logos }) => {
     const progress = useRef(new Animated.Value(0)).current;

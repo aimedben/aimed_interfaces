@@ -1,7 +1,7 @@
 import React from 'react';
 import { View, Text, Image, TouchableOpacity } from 'react-native';
 import { useRouter } from 'expo-router';
-import { styles } from './points'; 
+import { styles } from './styles'; 
 import ProgressBar  from './composents/ProgressBar'
 
 export default function Rewards() {

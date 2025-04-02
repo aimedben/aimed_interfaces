@@ -1,5 +1,5 @@
 import { View, Text, TouchableOpacity, Image } from 'react-native';
-import { styles } from './points'; 
+import { styles } from './styles'; 
 import { router } from 'expo-router';
 
 export default function Faq() {

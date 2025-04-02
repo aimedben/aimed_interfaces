@@ -4,7 +4,7 @@ import { useRouter } from 'expo-router';
 import ViewShot from 'react-native-view-shot';
 import { shareAsync } from 'expo-sharing';
 import ProgressBar from './composents/ProgressBar';
-import { styles } from './points';
+import { styles } from './styles';
 
 const Rewards2: React.FC = () => {
     const router = useRouter();

@@ -1,6 +1,6 @@
 import { View, ScrollView, Text, Image, TouchableOpacity } from 'react-native';
 import { Link, router } from 'expo-router'; 
-import { styles } from './points'; 
+import { styles } from './styles'; 
 
 export default function About() {
   const cards = [
